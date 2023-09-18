@@ -1,6 +1,6 @@
 # ICSXVPN-2016 Dataset Analysis and Classification
 
-This project utilizes the publicly available ICSXVPN-2016 dataset, which can be found [here](<https://www.unb.ca/cic/datasets/vpn.html>). The dataset originally came in a .pcap format and was transformed into a readable .csv format using the ICSX Flowmeter tool, written in Java. The Flowmeter tool also performed feature engineering, extracting 84 features for each network data packet.
+This project utilizes the publicly available ICSXVPN-2016 dataset, which can be found [here](<https://www.unb.ca/cic/datasets/vpn.html>). The dataset originally came in a .pcap format and was transformed into a readable .csv format using the CICFlowmeter tool, written in Java. The Flowmeter tool also performed feature engineering, extracting 84 features for each network data packet.
 
 ## Phase 1: Data Preparation
 
